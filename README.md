@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @agarwal-anushka
-- 👀 I’m interested in programming and developing a interest in cybersecurity
+- 👀 I’m interested in programming and developing new skills
 - 🌱 I’m currently learning object-oriented programming
 - 💞️ I’m looking to collaborate on projects to learn from it
 - 📫 How to reach me: mail id- anushkaagarwal812@gmail.com
