@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @agarwal-anushka
-- 👀 I’m interested in programming and developing new skills
-- 🌱 I’m currently learning front-end technologies
-- 💞️ I’m looking to collaborate on projects to learn from it
-- 📫 How to reach me: mail id- anushkaagarwal812@gmail.com
-- 😄 Pronouns: she/her
+# 👋 Hi, I'm Anushka Agarwal  
 
-<!---
-agarwal-anushka/agarwal-anushka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 2nd-year B.Tech CSE student passionate about Web Development and Open Source.  
+💡 I enjoy learning new technologies, building projects, and improving my problem-solving skills.  
+🌱 Currently exploring Front-End technologies — HTML, CSS, and JavaScript.  
+💻 Familiar with Git, GitHub, and basic Linux commands for development workflow.  
+🤝 Open to collaborating on beginner-friendly projects to learn and grow together.  
+📫 Reach me at: **anushkaagarwal812@gmail.com**
+**https://www.linkedin.com/in/anushka-agarwal-792a85327**
+
+---
+⭐ Check out my pinned repositories below to see what I’ve been working on!
