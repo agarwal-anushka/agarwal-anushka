@@ -1,12 +1,18 @@
-# 👋 Hi, I'm Anushka Agarwal  
+## 👋 About Me
 
-🎓 2nd-year B.Tech CSE student passionate about Web Development and Open Source.  
-💡 I enjoy learning new technologies, building projects, and improving my problem-solving skills.  
-🌱 Currently exploring Front-End technologies — HTML, CSS, and JavaScript.  
-💻 Familiar with Git, GitHub, and basic Linux commands for development workflow.  
-🤝 Open to collaborating on beginner-friendly projects to learn and grow together.  
-📫 Reach me at: **anushkaagarwal812@gmail.com**
-**https://www.linkedin.com/in/anushka-agarwal-792a85327**
+🎓 Computer Science Undergraduate  
+💻 Focused on Data Structures & Algorithms
 
----
-⭐ Check out my pinned repositories below to see what I’ve been working on!
+- Strong foundation in **C, C++, Java**
+- Currently learning and practicing **Data Structures & Algorithms**
+- Strengthening **Core CS subjects**:
+  - Operating Systems
+  - DBMS
+  - Computer Networks
+  - OOPs
+
+- Consistent problem-solving and clean coding approach
+- Open to learning, collaboration, and growth opportunities
+
+### 🎯 Goal
+Build a **strong DSA + Core CS foundation** for internships and software engineering roles.
